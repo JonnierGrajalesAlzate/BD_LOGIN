@@ -1,0 +1,72 @@
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.exe.config
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.exe
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.pdb
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.AssemblyReference.cache
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.Properties.Resources.resources
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.GenerateResource.cache
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.exe
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.pdb
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\mydatabse.db
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\System.Data.SQLite.dll
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\System.Data.SQLite.xml
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.fmr_Panel.resources
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\obj\Debug\PROCESO_.ADF05DC7.Up2Date
+C:\Users\57304\Desktop\MIPROYECTO\PROCESO_CRUD\bin\Debug\App.config
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\App.config
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\mydatabse.db
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.exe.config
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.exe
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.pdb
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.dll
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.xml
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.AssemblyReference.cache
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.Properties.Resources.resources
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.GenerateResource.cache
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_.ADF05DC7.Up2Date
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.exe
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.pdb
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmAplicacion.resources
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmInicio.resources
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmCreador.resources
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmGaleria.resources
+C:\Users\57304\Desktop\Base de Datos\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frm_BaseDatos.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\mydatabse.db
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\App.config
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.exe.config
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.exe
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\PROCESO_CRUD.pdb
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.dll
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\bin\Debug\System.Data.SQLite.xml
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmAplicacion.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmCreador.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmGaleria.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmInicio.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frm_BaseDatos.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.Properties.Resources.resources
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.GenerateResource.cache
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_.ADF05DC7.Up2Date
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.exe
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.pdb
+C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmRegistro.resources
