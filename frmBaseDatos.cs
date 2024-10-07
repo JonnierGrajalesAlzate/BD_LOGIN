@@ -3,7 +3,7 @@ using PROCESO_CRUD.Modelo;
 using System;
 using System.Windows.Forms;
 
-/*Jonnier Grajales Alzate
+/*Julian Manrique Cuervo
  16/09/2024 -> Fecha BD1
 BaseDeDatos CRUD con Sqlite -> Es de la actividad anteririor de BD1. Reutilice.
  */
