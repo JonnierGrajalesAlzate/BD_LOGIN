@@ -10,12 +10,11 @@ using System.Windows.Forms;
 
 namespace PROCESO_CRUD
 {
-    public partial class frmGaleria : Form
+    public partial class frmInicioApp : Form
     {
-        public frmGaleria()
+        public frmInicioApp()
         {
             InitializeComponent();
         }
-         
     }
 }

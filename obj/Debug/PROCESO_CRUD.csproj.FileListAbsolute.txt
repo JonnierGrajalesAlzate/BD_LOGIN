@@ -70,3 +70,27 @@ C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_C
 C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.exe
 C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.pdb
 C:\Users\Usuario1\Downloads\BASE-DE-DATOS2-main\BASE-DE-DATOS2-main\BD\PROCESO_CRUD\obj\Debug\PROCESO_CRUD.frmRegistro.resources
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.csproj.AssemblyReference.cache
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.frmRegistro.resources
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.csproj.GenerateResource.cache
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.exe
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.pdb
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.frmInicioApp.resources
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.frmLogin.resources
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.Properties.Resources.resources
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\App.config
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\mydatabse.db
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\PROCESO_CRUD.exe.config
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\PROCESO_CRUD.exe
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\PROCESO_CRUD.pdb
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\EntityFramework.dll
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\System.Data.SQLite.dll
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\EntityFramework.xml
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\bin\Debug\System.Data.SQLite.xml
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_.ADF05DC7.Up2Date
+C:\Users\57304\Desktop\APLICACION FUNCIONAL\BD_LOGIN\obj\Debug\PROCESO_CRUD.frm_Admin.resources

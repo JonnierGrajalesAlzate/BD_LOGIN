@@ -63,9 +63,9 @@ namespace PROCESO_CRUD.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1366_2000 {
+        internal static System.Drawing.Bitmap CR7 {
             get {
-                object obj = ResourceManager.GetObject("1366_2000", resourceCulture);
+                object obj = ResourceManager.GetObject("CR7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,39 +73,9 @@ namespace PROCESO_CRUD.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap camara_reflex_digital {
+        internal static System.Drawing.Bitmap volver {
             get {
-                object obj = ResourceManager.GetObject("camara-reflex-digital", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap contenido {
-            get {
-                object obj = ResourceManager.GetObject("contenido", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap IMG_0913 {
-            get {
-                object obj = ResourceManager.GetObject("IMG_0913", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap saludable {
-            get {
-                object obj = ResourceManager.GetObject("saludable", resourceCulture);
+                object obj = ResourceManager.GetObject("volver", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

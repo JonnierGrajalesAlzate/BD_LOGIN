@@ -10,21 +10,33 @@ namespace PROCESO_CRUD
         public frmRegistro()
         {
             InitializeComponent();
+            txtClave.KeyPress += new KeyPressEventHandler(txtClave_KeyPress);
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
+            if (!txtNombre.Text.Contains("@"))
+            {
+                MessageBox.Show("El correo debe contener un '@'.");
+                return;
+            }
+            if (!int.TryParse(txtClave.Text, out int pnClavePersona))
+            {
+                MessageBox.Show("La clave debe ser numérica.");
+                return;
+            }
+
             Persona oPersona = new Persona()
             {
                 pcNombrePersona = txtNombre.Text,
-                pnClavePersona = int.Parse(txtClave.Text)
+                pnClavePersona = pnClavePersona
             };
 
             bool respuesta = PersonaLogica.Instacia.Guardar(oPersona);
 
             if (respuesta)
             {
-                MessageBox.Show("Datos guardados correctamente");
+                MessageBox.Show("Cuenta Creada Correctamente.");
                 limpiar();
             }
             else
@@ -38,6 +50,22 @@ namespace PROCESO_CRUD
             txtNombre.Text = "";
             txtClave.Text = "";
             txtNombre.Focus();
+        }
+
+        private void txtClave_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void regresarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLogin frmVolver = new frmLogin();
+            this.Hide();
+            frmVolver.FormClosed += (s, args) => this.Close();
+            frmVolver.Show();
         }
     }
 }

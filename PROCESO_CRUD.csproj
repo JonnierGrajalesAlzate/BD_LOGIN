@@ -66,35 +66,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmAplicacion.cs">
+    <Compile Include="frmInicioApp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmAplicacion.Designer.cs">
-      <DependentUpon>frmAplicacion.cs</DependentUpon>
+    <Compile Include="frmInicioApp.Designer.cs">
+      <DependentUpon>frmInicioApp.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmCreador.cs">
+    <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmCreador.Designer.cs">
-      <DependentUpon>frmCreador.cs</DependentUpon>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmGaleria.cs">
+    <Compile Include="frmAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmGaleria.Designer.cs">
-      <DependentUpon>frmGaleria.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmInicio.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmInicio.Designer.cs">
-      <DependentUpon>frmInicio.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmBaseDatos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmBaseDatos.Designer.cs">
-      <DependentUpon>frmBaseDatos.cs</DependentUpon>
+    <Compile Include="frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="frmRegistro.cs">
       <SubType>Form</SubType>
@@ -106,20 +94,14 @@
     <Compile Include="Modelo\Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmAplicacion.resx">
-      <DependentUpon>frmAplicacion.cs</DependentUpon>
+    <EmbeddedResource Include="frmInicioApp.resx">
+      <DependentUpon>frmInicioApp.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmCreador.resx">
-      <DependentUpon>frmCreador.cs</DependentUpon>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmGaleria.resx">
-      <DependentUpon>frmGaleria.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmInicio.resx">
-      <DependentUpon>frmInicio.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmBaseDatos.resx">
-      <DependentUpon>frmBaseDatos.cs</DependentUpon>
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmRegistro.resx">
       <DependentUpon>frmRegistro.cs</DependentUpon>
@@ -154,19 +136,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\saludable.png" />
+    <None Include="Resources\volver.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\contenido.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\camara-reflex-digital.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\IMG_0913.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1366_2000.jpg" />
+    <None Include="Resources\CR7.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

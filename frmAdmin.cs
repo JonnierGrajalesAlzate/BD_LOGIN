@@ -3,16 +3,12 @@ using PROCESO_CRUD.Modelo;
 using System;
 using System.Windows.Forms;
 
-/*Jonnier Grajales Alzate
- 16/09/2024 -> Fecha BD1
-BaseDeDatos CRUD con Sqlite -> Es de la actividad anteririor de BD1. Reutilice.
- */
 
 namespace PROCESO_CRUD
 {
-    public partial class frm_BaseDatos : Form
+    public partial class frm_Admin : Form
     {
-        public frm_BaseDatos()
+        public frm_Admin()
         {
             InitializeComponent();
         }
@@ -61,14 +57,14 @@ namespace PROCESO_CRUD
             dgvPersonas.Columns.Add(new DataGridViewTextBoxColumn()
             {
                 Name = "pcNombrePersona",
-                HeaderText = "Nombre",
+                HeaderText = "Correo Electronico",
                 DataPropertyName = "pcNombrePersona"
             });
 
             dgvPersonas.Columns.Add(new DataGridViewTextBoxColumn()
             {
                 Name = "pnClavePersona",
-                HeaderText = "Clave",
+                HeaderText = "Clave Numérica",
                 DataPropertyName = "pnClavePersona"
             });
 
@@ -109,6 +105,14 @@ namespace PROCESO_CRUD
                 limpiar();
                 mostrar_personas();
             }
+        }
+
+        private void regresarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLogin frmVolver = new frmLogin();
+            this.Hide();
+            frmVolver.FormClosed += (s, args) => this.Close();
+            frmVolver.Show();
         }
     }
 }

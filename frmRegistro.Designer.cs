@@ -35,36 +35,34 @@
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblClave = new System.Windows.Forms.Label();
             this.lblRegistro = new System.Windows.Forms.Label();
-            this.lblSoloNumeros = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.regresarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.govContenedor.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // govContenedor
             // 
-            this.govContenedor.Controls.Add(this.lblSoloNumeros);
             this.govContenedor.Controls.Add(this.btnGuardar);
             this.govContenedor.Controls.Add(this.txtClave);
             this.govContenedor.Controls.Add(this.txtNombre);
             this.govContenedor.Controls.Add(this.lblNombre);
             this.govContenedor.Controls.Add(this.lblClave);
-            this.govContenedor.Location = new System.Drawing.Point(13, 38);
-            this.govContenedor.Margin = new System.Windows.Forms.Padding(4);
+            this.govContenedor.Location = new System.Drawing.Point(7, 48);
             this.govContenedor.Name = "govContenedor";
-            this.govContenedor.Padding = new System.Windows.Forms.Padding(4);
-            this.govContenedor.Size = new System.Drawing.Size(402, 174);
+            this.govContenedor.Size = new System.Drawing.Size(302, 123);
             this.govContenedor.TabIndex = 7;
             this.govContenedor.TabStop = false;
-            this.govContenedor.Text = "Información";
+            this.govContenedor.Text = "Información usuario";
             // 
             // btnGuardar
             // 
-            this.btnGuardar.BackColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnGuardar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnGuardar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnGuardar.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnGuardar.Location = new System.Drawing.Point(21, 117);
-            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnGuardar.Location = new System.Drawing.Point(98, 89);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(100, 28);
+            this.btnGuardar.Size = new System.Drawing.Size(75, 23);
             this.btnGuardar.TabIndex = 6;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = false;
@@ -72,71 +70,81 @@
             // 
             // txtClave
             // 
-            this.txtClave.Location = new System.Drawing.Point(219, 58);
-            this.txtClave.Margin = new System.Windows.Forms.Padding(4);
+            this.txtClave.Location = new System.Drawing.Point(164, 47);
             this.txtClave.Name = "txtClave";
-            this.txtClave.Size = new System.Drawing.Size(132, 22);
+            this.txtClave.Size = new System.Drawing.Size(100, 20);
             this.txtClave.TabIndex = 5;
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(22, 58);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(4);
+            this.txtNombre.Location = new System.Drawing.Point(16, 47);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(132, 22);
+            this.txtNombre.Size = new System.Drawing.Size(100, 20);
             this.txtNombre.TabIndex = 4;
             // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(18, 38);
-            this.lblNombre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNombre.Location = new System.Drawing.Point(14, 31);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(56, 16);
+            this.lblNombre.Size = new System.Drawing.Size(94, 13);
             this.lblNombre.TabIndex = 1;
-            this.lblNombre.Text = "Nombre";
+            this.lblNombre.Text = "Correo Electrónico";
             // 
             // lblClave
             // 
             this.lblClave.AutoSize = true;
-            this.lblClave.Location = new System.Drawing.Point(215, 38);
-            this.lblClave.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblClave.Location = new System.Drawing.Point(161, 31);
             this.lblClave.Name = "lblClave";
-            this.lblClave.Size = new System.Drawing.Size(42, 16);
+            this.lblClave.Size = new System.Drawing.Size(82, 13);
             this.lblClave.TabIndex = 2;
-            this.lblClave.Text = "Clave";
+            this.lblClave.Text = "Clave Númerica";
             // 
             // lblRegistro
             // 
             this.lblRegistro.AutoSize = true;
             this.lblRegistro.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRegistro.Location = new System.Drawing.Point(163, 9);
+            this.lblRegistro.Location = new System.Drawing.Point(119, 24);
+            this.lblRegistro.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblRegistro.Name = "lblRegistro";
-            this.lblRegistro.Size = new System.Drawing.Size(85, 16);
+            this.lblRegistro.Size = new System.Drawing.Size(71, 13);
             this.lblRegistro.TabIndex = 8;
             this.lblRegistro.Text = "REGISTRO";
             // 
-            // lblSoloNumeros
+            // menuStrip1
             // 
-            this.lblSoloNumeros.AutoSize = true;
-            this.lblSoloNumeros.ForeColor = System.Drawing.Color.Red;
-            this.lblSoloNumeros.Location = new System.Drawing.Point(278, 84);
-            this.lblSoloNumeros.Name = "lblSoloNumeros";
-            this.lblSoloNumeros.Size = new System.Drawing.Size(90, 16);
-            this.lblSoloNumeros.TabIndex = 7;
-            this.lblSoloNumeros.Text = "Solo números";
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.regresarToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(327, 24);
+            this.menuStrip1.TabIndex = 9;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // regresarToolStripMenuItem
+            // 
+            this.regresarToolStripMenuItem.Image = global::PROCESO_CRUD.Properties.Resources.volver;
+            this.regresarToolStripMenuItem.Name = "regresarToolStripMenuItem";
+            this.regresarToolStripMenuItem.Size = new System.Drawing.Size(80, 20);
+            this.regresarToolStripMenuItem.Text = "&Regresar";
+            this.regresarToolStripMenuItem.Click += new System.EventHandler(this.regresarToolStripMenuItem_Click);
             // 
             // frmRegistro
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(436, 225);
+            this.ClientSize = new System.Drawing.Size(327, 180);
             this.Controls.Add(this.lblRegistro);
             this.Controls.Add(this.govContenedor);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmRegistro";
             this.Text = "frmRegistro";
             this.govContenedor.ResumeLayout(false);
             this.govContenedor.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -151,6 +159,7 @@
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblClave;
         private System.Windows.Forms.Label lblRegistro;
-        private System.Windows.Forms.Label lblSoloNumeros;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem regresarToolStripMenuItem;
     }
 }

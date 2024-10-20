@@ -1,6 +1,6 @@
 ﻿namespace PROCESO_CRUD
 {
-    partial class frm_BaseDatos
+    partial class frm_Admin
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -39,68 +39,63 @@
             this.btnActualizar = new System.Windows.Forms.Button();
             this.btnGuardar = new System.Windows.Forms.Button();
             this.dgvPersonas = new System.Windows.Forms.DataGridView();
-            this.lblSoloNumeros = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.regresarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.govContenedor.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPersonas)).BeginInit();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblCedula
             // 
             this.lblCedula.AutoSize = true;
-            this.lblCedula.Location = new System.Drawing.Point(17, 50);
-            this.lblCedula.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCedula.Location = new System.Drawing.Point(13, 41);
             this.lblCedula.Name = "lblCedula";
-            this.lblCedula.Size = new System.Drawing.Size(18, 16);
+            this.lblCedula.Size = new System.Drawing.Size(16, 13);
             this.lblCedula.TabIndex = 0;
             this.lblCedula.Text = "Id";
             // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(128, 50);
-            this.lblNombre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNombre.Location = new System.Drawing.Point(68, 41);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(56, 16);
+            this.lblNombre.Size = new System.Drawing.Size(94, 13);
             this.lblNombre.TabIndex = 1;
-            this.lblNombre.Text = "Nombre";
+            this.lblNombre.Text = "Correo Electrónico";
             // 
             // lblClave
             // 
             this.lblClave.AutoSize = true;
-            this.lblClave.Location = new System.Drawing.Point(325, 50);
-            this.lblClave.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblClave.Location = new System.Drawing.Point(244, 41);
             this.lblClave.Name = "lblClave";
-            this.lblClave.Size = new System.Drawing.Size(42, 16);
+            this.lblClave.Size = new System.Drawing.Size(34, 13);
             this.lblClave.TabIndex = 2;
             this.lblClave.Text = "Clave";
             // 
             // txtId
             // 
-            this.txtId.Location = new System.Drawing.Point(21, 70);
-            this.txtId.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtId.Location = new System.Drawing.Point(16, 57);
             this.txtId.Name = "txtId";
-            this.txtId.Size = new System.Drawing.Size(45, 22);
+            this.txtId.Size = new System.Drawing.Size(35, 20);
             this.txtId.TabIndex = 3;
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(132, 70);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNombre.Location = new System.Drawing.Point(71, 57);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(132, 22);
+            this.txtNombre.Size = new System.Drawing.Size(170, 20);
             this.txtNombre.TabIndex = 4;
             // 
             // txtClave
             // 
-            this.txtClave.Location = new System.Drawing.Point(329, 70);
-            this.txtClave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtClave.Location = new System.Drawing.Point(247, 57);
             this.txtClave.Name = "txtClave";
-            this.txtClave.Size = new System.Drawing.Size(132, 22);
+            this.txtClave.Size = new System.Drawing.Size(100, 20);
             this.txtClave.TabIndex = 5;
             // 
             // govContenedor
             // 
-            this.govContenedor.Controls.Add(this.lblSoloNumeros);
             this.govContenedor.Controls.Add(this.btnEliminar);
             this.govContenedor.Controls.Add(this.btnActualizar);
             this.govContenedor.Controls.Add(this.btnGuardar);
@@ -110,24 +105,21 @@
             this.govContenedor.Controls.Add(this.txtNombre);
             this.govContenedor.Controls.Add(this.lblNombre);
             this.govContenedor.Controls.Add(this.lblClave);
-            this.govContenedor.Location = new System.Drawing.Point(16, 15);
-            this.govContenedor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.govContenedor.Location = new System.Drawing.Point(12, 44);
             this.govContenedor.Name = "govContenedor";
-            this.govContenedor.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.govContenedor.Size = new System.Drawing.Size(513, 159);
+            this.govContenedor.Size = new System.Drawing.Size(385, 129);
             this.govContenedor.TabIndex = 6;
             this.govContenedor.TabStop = false;
-            this.govContenedor.Text = "Informacion Persona";
+            this.govContenedor.Text = "USUARIO";
             // 
             // btnEliminar
             // 
-            this.btnEliminar.BackColor = System.Drawing.Color.DarkRed;
+            this.btnEliminar.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.btnEliminar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnEliminar.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnEliminar.Location = new System.Drawing.Point(268, 117);
-            this.btnEliminar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEliminar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnEliminar.Location = new System.Drawing.Point(201, 95);
             this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(100, 28);
+            this.btnEliminar.Size = new System.Drawing.Size(75, 23);
             this.btnEliminar.TabIndex = 8;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = false;
@@ -138,10 +130,9 @@
             this.btnActualizar.BackColor = System.Drawing.Color.DarkGray;
             this.btnActualizar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnActualizar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnActualizar.Location = new System.Drawing.Point(147, 117);
-            this.btnActualizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnActualizar.Location = new System.Drawing.Point(110, 95);
             this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(100, 28);
+            this.btnActualizar.Size = new System.Drawing.Size(75, 23);
             this.btnActualizar.TabIndex = 7;
             this.btnActualizar.Text = "Actualizar";
             this.btnActualizar.UseVisualStyleBackColor = false;
@@ -149,13 +140,12 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.BackColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnGuardar.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.btnGuardar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnGuardar.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnGuardar.Location = new System.Drawing.Point(21, 117);
-            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGuardar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnGuardar.Location = new System.Drawing.Point(16, 95);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(100, 28);
+            this.btnGuardar.Size = new System.Drawing.Size(75, 23);
             this.btnGuardar.TabIndex = 6;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = false;
@@ -170,38 +160,48 @@
             this.dgvPersonas.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.RaisedVertical;
             this.dgvPersonas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvPersonas.GridColor = System.Drawing.Color.LightGray;
-            this.dgvPersonas.Location = new System.Drawing.Point(16, 181);
-            this.dgvPersonas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvPersonas.Location = new System.Drawing.Point(12, 192);
             this.dgvPersonas.Name = "dgvPersonas";
             this.dgvPersonas.RowHeadersWidth = 51;
-            this.dgvPersonas.Size = new System.Drawing.Size(513, 217);
+            this.dgvPersonas.Size = new System.Drawing.Size(385, 193);
             this.dgvPersonas.TabIndex = 7;
             // 
-            // lblSoloNumeros
+            // menuStrip1
             // 
-            this.lblSoloNumeros.AutoSize = true;
-            this.lblSoloNumeros.ForeColor = System.Drawing.Color.Red;
-            this.lblSoloNumeros.Location = new System.Drawing.Point(403, 96);
-            this.lblSoloNumeros.Name = "lblSoloNumeros";
-            this.lblSoloNumeros.Size = new System.Drawing.Size(90, 16);
-            this.lblSoloNumeros.TabIndex = 9;
-            this.lblSoloNumeros.Text = "Solo números";
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.regresarToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(409, 24);
+            this.menuStrip1.TabIndex = 10;
+            this.menuStrip1.Text = "menuStrip1";
             // 
-            // frm_BaseDatos
+            // regresarToolStripMenuItem
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.regresarToolStripMenuItem.Image = global::PROCESO_CRUD.Properties.Resources.volver;
+            this.regresarToolStripMenuItem.Name = "regresarToolStripMenuItem";
+            this.regresarToolStripMenuItem.Size = new System.Drawing.Size(80, 20);
+            this.regresarToolStripMenuItem.Text = "&Regresar";
+            this.regresarToolStripMenuItem.Click += new System.EventHandler(this.regresarToolStripMenuItem_Click);
+            // 
+            // frm_Admin
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(545, 411);
+            this.ClientSize = new System.Drawing.Size(409, 396);
+            this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.dgvPersonas);
             this.Controls.Add(this.govContenedor);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "frm_BaseDatos";
+            this.Name = "frm_Admin";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.fmr_Panel_Load);
             this.govContenedor.ResumeLayout(false);
             this.govContenedor.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPersonas)).EndInit();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -218,7 +218,8 @@
         private System.Windows.Forms.Button btnActualizar;
         private System.Windows.Forms.Button btnGuardar;
         private System.Windows.Forms.DataGridView dgvPersonas;
-        private System.Windows.Forms.Label lblSoloNumeros;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem regresarToolStripMenuItem;
     }
 }
 
